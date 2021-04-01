@@ -1,5 +1,7 @@
 # COMANDOS INTERESANTES DE GIT
 
+Comandos interesantes para el control de versiones con `git`
+
 - `git status` comando comprobar estado de repositorio git
 - `git clone` comando para descargar (clonar) un repositorio git desde una estancia url (servidor remoto)
 - `git add` añadir un archivo al area de seguimiento (_stagging area_) (modificado,preparado para commit,)
